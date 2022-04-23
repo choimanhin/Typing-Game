@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ierg3080project_1155125212/1.0.0": {
+        "runtime": {
+          "ierg3080project_1155125212.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ierg3080project_1155125212/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\university\\u\\ierg\\ierg3080\\porject_part_one\\IERG3080B_Project_1155125212\\ierg3080project_1155125212\\ierg3080project_1155125212\\ierg3080project_1155125212.csproj": {}
+  },
+  "projects": {
+    "D:\\university\\u\\ierg\\ierg3080\\porject_part_one\\IERG3080B_Project_1155125212\\ierg3080project_1155125212\\ierg3080project_1155125212\\ierg3080project_1155125212.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\university\\u\\ierg\\ierg3080\\porject_part_one\\IERG3080B_Project_1155125212\\ierg3080project_1155125212\\ierg3080project_1155125212\\ierg3080project_1155125212.csproj",
+        "projectName": "ierg3080project_1155125212",
+        "projectPath": "D:\\university\\u\\ierg\\ierg3080\\porject_part_one\\IERG3080B_Project_1155125212\\ierg3080project_1155125212\\ierg3080project_1155125212\\ierg3080project_1155125212.csproj",
+        "packagesPath": "C:\\Users\\choi man hin\\.nuget\\packages\\",
+        "outputPath": "D:\\university\\u\\ierg\\ierg3080\\porject_part_one\\IERG3080B_Project_1155125212\\ierg3080project_1155125212\\ierg3080project_1155125212\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\choi man hin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
